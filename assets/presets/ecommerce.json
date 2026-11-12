@@ -1,0 +1,32 @@
+{
+  "_preset": "ecommerce",
+  "_label": "E-commerce",
+  "_description": "Online stores judged on revenue: Shopify, WooCommerce, Amazon-adjacent brands. Uses ROAS.",
+  "_review_days": 7,
+  "_goal": "roas",
+  "_notes": [
+    "Shoppers browse before buying, so search terms get more room (1.5x target CPA) before being called waste.",
+    "'free' is NOT treated as junk: 'free shipping' searchers buy."
+  ],
+  "sample_size": {
+    "min_conversions_for_judgment": 15
+  },
+  "wasted_search_term": {
+    "spend_vs_target_cpa": 1.5,
+    "min_spend": 30,
+    "min_clicks": 10
+  },
+  "junk_words": {
+    "add": [
+      "used",
+      "second hand",
+      "repair",
+      "manual",
+      "coupon code reddit",
+      "wholesale"
+    ],
+    "remove": [
+      "free"
+    ]
+  }
+}

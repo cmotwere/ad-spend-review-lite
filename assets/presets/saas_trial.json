@@ -1,0 +1,32 @@
+{
+  "_preset": "saas_trial",
+  "_label": "SaaS / free trial",
+  "_description": "Software with free trials or freemium sign-ups, judged on cost per trial or sign-up.",
+  "_review_days": 14,
+  "_goal": "cpa",
+  "_notes": [
+    "'free' is NOT junk here: 'free trial' searchers are the target.",
+    "Watch trial-to-paid quality outside this skill: cheap trials that never pay are not a win."
+  ],
+  "sample_size": {
+    "min_conversions_for_judgment": 15
+  },
+  "junk_words": {
+    "add": [
+      "crack",
+      "cracked",
+      "torrent",
+      "keygen",
+      "open source alternative",
+      "login",
+      "log in",
+      "sign in",
+      "customer service",
+      "cancel"
+    ],
+    "remove": [
+      "free",
+      "template"
+    ]
+  }
+}

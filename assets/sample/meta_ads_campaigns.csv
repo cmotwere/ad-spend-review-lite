@@ -1,0 +1,57 @@
+Reporting starts,Reporting ends,Campaign name,Amount spent (USD),Impressions,Reach,Frequency,Link clicks,Results,Result indicator
+2026-10-01,2026-10-01,Meta - Whitening Offer,55.93,5604,3502,1.60,64,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-01,2026-10-01,Meta - Retargeting,23.07,1653,1181,1.40,32,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-02,2026-10-02,Meta - Whitening Offer,56.28,6343,3787,1.68,66,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-02,2026-10-02,Meta - Retargeting,24.91,1884,1299,1.45,36,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-03,2026-10-03,Meta - Whitening Offer,60.40,6560,3749,1.75,68,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-03,2026-10-03,Meta - Retargeting,22.58,1766,1177,1.50,33,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-04,2026-10-04,Meta - Whitening Offer,55.35,5222,2861,1.83,61,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-04,2026-10-04,Meta - Retargeting,23.50,1693,1092,1.55,34,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-05,2026-10-05,Meta - Whitening Offer,55.89,6316,3324,1.90,67,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-05,2026-10-05,Meta - Retargeting,22.68,1567,979,1.60,32,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-06,2026-10-06,Meta - Whitening Offer,55.06,6062,3069,1.98,64,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-06,2026-10-06,Meta - Retargeting,23.60,1468,890,1.65,31,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-07,2026-10-07,Meta - Whitening Offer,53.73,5717,2789,2.05,65,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-07,2026-10-07,Meta - Retargeting,23.67,1793,1055,1.70,33,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-08,2026-10-08,Meta - Whitening Offer,59.92,5419,2550,2.12,63,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-08,2026-10-08,Meta - Retargeting,23.03,1852,1058,1.75,35,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-09,2026-10-09,Meta - Whitening Offer,58.25,5268,2395,2.20,60,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-09,2026-10-09,Meta - Retargeting,24.50,1736,964,1.80,35,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-10,2026-10-10,Meta - Whitening Offer,58.93,5793,2546,2.27,68,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-10,2026-10-10,Meta - Retargeting,23.19,1822,985,1.85,35,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-11,2026-10-11,Meta - Whitening Offer,58.36,6736,2866,2.35,69,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-11,2026-10-11,Meta - Retargeting,23.99,1831,964,1.90,35,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-12,2026-10-12,Meta - Whitening Offer,53.65,5672,2339,2.42,62,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-12,2026-10-12,Meta - Retargeting,24.16,1657,850,1.95,33,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-13,2026-10-13,Meta - Whitening Offer,55.27,5018,2007,2.50,57,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-13,2026-10-13,Meta - Retargeting,22.39,1557,778,2.00,32,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-14,2026-10-14,Meta - Whitening Offer,55.34,5107,1983,2.58,60,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-14,2026-10-14,Meta - Retargeting,22.42,1671,815,2.05,33,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-15,2026-10-15,Meta - Whitening Offer,54.93,5078,1916,2.65,58,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-15,2026-10-15,Meta - Retargeting,22.91,1547,737,2.10,30,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-16,2026-10-16,Meta - Whitening Offer,55.16,5585,2050,2.73,64,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-16,2026-10-16,Meta - Retargeting,25.04,1895,881,2.15,36,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-17,2026-10-17,Meta - Whitening Offer,56.43,5174,1848,2.80,61,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-17,2026-10-17,Meta - Retargeting,23.45,1627,740,2.20,35,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-18,2026-10-18,Meta - Whitening Offer,53.93,5919,2059,2.88,64,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-18,2026-10-18,Meta - Retargeting,24.84,1575,700,2.25,34,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-19,2026-10-19,Meta - Whitening Offer,55.83,5524,1873,2.95,65,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-19,2026-10-19,Meta - Retargeting,22.42,1581,687,2.30,31,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-20,2026-10-20,Meta - Whitening Offer,55.85,6518,2155,3.03,66,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-20,2026-10-20,Meta - Retargeting,23.33,1649,702,2.35,31,4,actions:offsite_conversion.fb_pixel_lead
+2026-10-21,2026-10-21,Meta - Whitening Offer,55.00,5447,1757,3.10,63,5,actions:offsite_conversion.fb_pixel_lead
+2026-10-21,2026-10-21,Meta - Retargeting,23.56,1808,753,2.40,36,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-22,2026-10-22,Meta - Whitening Offer,59.87,6445,2030,3.17,43,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-22,2026-10-22,Meta - Retargeting,22.41,1524,622,2.45,32,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-23,2026-10-23,Meta - Whitening Offer,53.86,6306,1940,3.25,40,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-23,2026-10-23,Meta - Retargeting,23.06,1504,602,2.50,32,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-24,2026-10-24,Meta - Whitening Offer,55.44,5182,1558,3.33,36,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-24,2026-10-24,Meta - Retargeting,24.37,1867,732,2.55,36,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-25,2026-10-25,Meta - Whitening Offer,58.75,5455,1604,3.40,38,3,actions:offsite_conversion.fb_pixel_lead
+2026-10-25,2026-10-25,Meta - Retargeting,22.39,1657,637,2.60,33,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-26,2026-10-26,Meta - Whitening Offer,60.10,6414,1846,3.48,42,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-26,2026-10-26,Meta - Retargeting,23.73,1686,636,2.65,32,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-27,2026-10-27,Meta - Whitening Offer,58.63,5339,1504,3.55,38,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-27,2026-10-27,Meta - Retargeting,23.26,1738,644,2.70,34,0,actions:offsite_conversion.fb_pixel_lead
+2026-10-28,2026-10-28,Meta - Whitening Offer,54.12,5496,1516,3.62,39,2,actions:offsite_conversion.fb_pixel_lead
+2026-10-28,2026-10-28,Meta - Retargeting,22.51,1735,631,2.75,35,0,actions:offsite_conversion.fb_pixel_lead

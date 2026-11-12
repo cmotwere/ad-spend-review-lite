@@ -1,0 +1,38 @@
+{
+  "_preset": "b2b",
+  "_label": "B2B / high-ticket",
+  "_description": "Long sales cycles and expensive leads: software sales, consulting, manufacturing, commercial services, high-ticket coaching.",
+  "_review_days": 30,
+  "_goal": "cpa",
+  "_notes": [
+    "Review 30 days at a time: weekly numbers are too small and leads take weeks to close.",
+    "Use qualified leads or booked demos as the conversion, not newsletter sign-ups."
+  ],
+  "sample_size": {
+    "min_conversions_for_judgment": 5
+  },
+  "conversion_volume": {
+    "warning_ratio": 0.4,
+    "critical_ratio": 0.15
+  },
+  "zero_conversion_alert": {
+    "min_spend_to_trigger": 100
+  },
+  "wasted_search_term": {
+    "spend_vs_target_cpa": 0.5,
+    "min_spend": 50,
+    "min_clicks": 8
+  },
+  "junk_words": {
+    "add": [
+      "examples",
+      "what is",
+      "sample",
+      "student",
+      "thesis",
+      "assignment",
+      "open source"
+    ],
+    "remove": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_preset": "local_services",
+  "_label": "Local services",
+  "_description": "Small local businesses on Google Search and Local Services: plumbers, HVAC, cleaners, salons, auto repair, clinics.",
+  "_review_days": 7,
+  "_goal": "cpa",
+  "_notes": [
+    "Budgets are small, so waste matters more: search-term thresholds are lower.",
+    "Phone calls are often the main conversion; make sure call tracking is counted."
+  ],
+  "sample_size": {
+    "min_conversions_for_judgment": 8
+  },
+  "zero_conversion_alert": {
+    "min_spend_to_trigger": 30
+  },
+  "wasted_search_term": {
+    "spend_vs_target_cpa": 0.75,
+    "min_spend": 15,
+    "min_clicks": 3
+  },
+  "junk_words": {
+    "add": [
+      "near me jobs",
+      "apprentice",
+      "apprenticeship",
+      "license exam",
+      "parts store",
+      "wholesale",
+      "supplies"
+    ],
+    "remove": []
+  }
+}

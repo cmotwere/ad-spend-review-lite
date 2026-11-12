@@ -1,0 +1,13 @@
+{
+  "_preset": "lead_gen",
+  "_label": "Lead generation",
+  "_description": "Forms, calls and bookings for service businesses: dental, legal, medical, home services, real estate, education.",
+  "_review_days": 7,
+  "_goal": "cpa",
+  "_notes": [
+    "Count qualified leads or booked appointments if the account tracks them; raw form fills inflate results."
+  ],
+  "sample_size": {
+    "min_conversions_for_judgment": 10
+  }
+}
