@@ -3,3 +3,4 @@ __pycache__/
 # your client data never goes in the repo
 clients/
 *.zip
+dist/
