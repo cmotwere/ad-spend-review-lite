@@ -28,6 +28,34 @@ python skills/ad-spend-review-lite/scripts/selftest.py
 It reviews a bundled sample dental practice with planted problems and shows each one being found
 (9/9 checks).
 
+## Example
+
+Ask Claude: *"Review last week's ad spend for Bright Smile Dental. The exports are in
+clients/bright-smile/exports."* It imports the files, runs the checks, and writes a report like
+this (excerpt from the bundled sample):
+
+```
+Summary
+- Spend: $3,861.18 (▲ 9% vs previous period)
+- Conversions: 75.6 (▼ 27%, worse)
+- Cost per conversion: $51.07 (▲ 50%, worse)
+
+Critical (3)
+- Meta - Retargeting: Conversions dropped 100% (22.0 -> 0.0) vs the previous 7 days.
+  A drop this sharp is often a tracking break, not a real performance change.
+  Next step: Check tracking/pixel setup before assuming this is a real performance change.
+- Performance Max - New Patients: Spent $943.76 against a $700.00 budget (35% over).
+  Next step: Confirm the daily budget cap is set correctly on the platform.
+- Search - Dental Implants: CPA is $211.74, 76% above target ($120.00).
+  Next step: Review targeting and search terms/placements for this campaign.
+
+Opportunities (2)
+- Search - Emergency Dentist: Beating target (CPA $39.83) while using 98% of budget:
+  likely held back by budget.
+```
+
+The same report is also written as a client-ready HTML page with your agency's name on it.
+
 ## Install
 
 The skill is the [`skills/ad-spend-review-lite/`](skills/ad-spend-review-lite) folder.
