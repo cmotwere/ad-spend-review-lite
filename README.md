@@ -22,7 +22,7 @@ trials. The scripts need only Python 3.9+, with no extra packages.
 ## Try it in 30 seconds
 
 ```bash
-python scripts/selftest.py
+python skills/ad-spend-review-lite/scripts/selftest.py
 ```
 
 It reviews a bundled sample dental practice with planted problems and shows each one being found
@@ -30,12 +30,15 @@ It reviews a bundled sample dental practice with planted problems and shows each
 
 ## Install
 
-- **Claude Code:** copy this folder to `~/.claude/skills/ad-spend-review-lite/` (or your
-  project's `.claude/skills/`), then ask Claude to "review my ad spend".
-- **claude.ai:** zip this folder and upload it under Settings → Capabilities → Skills.
-- **Other agents** that support the open SKILL.md format: point them at this folder.
+The skill is the [`skills/ad-spend-review-lite/`](skills/ad-spend-review-lite) folder.
 
-Then follow `SKILL.md`: set up a client, drop the exports into its `exports/` folder, and run the
+- **Claude Code:** copy that folder to `~/.claude/skills/ad-spend-review-lite/` (or your
+  project's `.claude/skills/`), then ask Claude to "review my ad spend".
+- **claude.ai:** zip that folder and upload it under Settings → Capabilities → Skills.
+- **MCP Market and other agents** that support the open SKILL.md format: point them at
+  `https://github.com/cmotwere/ad-spend-review-lite/tree/main/skills/ad-spend-review-lite`.
+
+Then follow its `SKILL.md`: set up a client, drop the exports into its `exports/` folder, and run the
 review. `references/exporting.md` shows exactly which reports to download from each platform.
 
 ## Lite vs full
